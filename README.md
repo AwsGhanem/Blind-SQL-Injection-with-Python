@@ -29,5 +29,5 @@ This Code Automates the process of testing the SQL query for a specific username
 ![Screenshot 2024-05-02 184700](https://github.com/AwsGhanem/Blind-SQL-Injection-with-Python/assets/123994471/e62e8897-dd71-4f41-9a9a-1ff91cf95e54)
 
 
-## The code only operates for this lab so far, but the concept could be developed to be performed on more complex Blind SQL injection attacks
-
+## About the Script
+The code only operates for this lab so far, but the concept could be developed to be performed on more complex Blind SQL injection attacks
