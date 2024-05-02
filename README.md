@@ -2,7 +2,7 @@
 ## Exploiting SQL injection attack within a vulnerable website 
 ## Test Lab Name (PortSwigger | Blind SQL injection with conditional responses)
 
-An Automated way for **testing the SQL query** to a specific username, then **finding the password length automatically**, also there is an option to **extract the hash value of the user**.
+An Automated way for **`testing the SQL query`** to a specific username, then **`finding the password length automatically`**, also there is an option to **`extract the hash value of the user`**.
 ## 
 
 **This code is a solution to the problem of running N number of Sniper attacks to extract the password. N represents the Password length, assuming that we know the vulnerable SQL query**
