@@ -16,5 +16,10 @@ This Code Automates the process of testing the SQL query for a specific username
 # I performed the script on this Lab from PortSwigger
 ![image](https://github.com/AwsGhanem/Blind-SQL-Injection-with-Python/assets/123994471/132a48a6-58e5-405c-9eae-8c750b95fecf)
 
+# Get the required values from BurpSuite by viewing the login request
+
+![image](https://github.com/AwsGhanem/Blind-SQL-Injection-with-Python/assets/123994471/74249a0f-3e15-49c3-b46c-1a4a910046aa)
+
+![image](https://github.com/AwsGhanem/Blind-SQL-Injection-with-Python/assets/123994471/8f9be079-ee39-4433-b855-2b2ceb6bd997)
 
   
