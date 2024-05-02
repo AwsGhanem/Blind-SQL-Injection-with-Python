@@ -1,4 +1,4 @@
-# Blind SQL Injection attack using a Python Script ( Testing on PortSwigger Lab)
+# Blind SQL Injection attack using a Python Script - PortSwigger Lab
 ## Exploiting SQL injection attack within a vulnerable website (Lab name: Blind SQL injection with conditional responses)
 
 This Code Automates the process of testing the SQL query for a specific username, then find the password length automatically, also there is an option to extract the hash value of the user.
