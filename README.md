@@ -26,7 +26,8 @@ An Automated way for **testing the SQL query** to a specific username, then **fi
 
   
 # Testing the Code
-![Screenshot 2024-05-02 184700](https://github.com/AwsGhanem/Blind-SQL-Injection-with-Python/assets/123994471/e62e8897-dd71-4f41-9a9a-1ff91cf95e54)
+![image](https://github.com/AwsGhanem/Blind-SQL-Injection-with-Python/assets/123994471/5d15de14-c458-412c-8fb0-dbd0f1d56e73)
+
 
 
 ## About the Script
