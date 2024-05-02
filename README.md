@@ -22,4 +22,6 @@ This Code Automates the process of testing the SQL query for a specific username
 
 ![image](https://github.com/AwsGhanem/Blind-SQL-Injection-with-Python/assets/123994471/8f9be079-ee39-4433-b855-2b2ceb6bd997)
 
+**Copy and paste all the required values from the request into the Python script,`Make sure that the values are generated recently or just relaunch the lab and take them`**
+
   
