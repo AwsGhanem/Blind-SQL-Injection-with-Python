@@ -30,4 +30,4 @@ An Automated way for **testing the SQL query** to a specific username, then **fi
 
 
 ## About the Script
-The code only operates for this lab so far, but the concept can be developed to acomodate on more complex Blind SQL injection attacks
+The code only operates for this lab so far, but the concept can be developed to acomodate more complex Blind SQL injection attacks
