@@ -13,7 +13,7 @@ This Code Automates the process of testing the SQL query for a specific username
 
 
 
-# The test has done with this Lab
+# I performed the script on this Lab from PortSwigger
 ![image](https://github.com/AwsGhanem/Blind-SQL-Injection-with-Python/assets/123994471/132a48a6-58e5-405c-9eae-8c750b95fecf)
 
 
