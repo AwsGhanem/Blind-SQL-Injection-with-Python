@@ -30,6 +30,8 @@ An Automated way for **`testing the SQL query`** to a specific username, then **
 # Testing the Code
 ![image](https://github.com/AwsGhanem/Blind-SQL-Injection-with-Python/assets/123994471/5d15de14-c458-412c-8fb0-dbd0f1d56e73)
 
+# Time Estimation
+![image](https://github.com/AwsGhanem/Blind-SQL-Injection-with-Python/assets/123994471/1d3f4737-eba9-42b6-8bc8-f02947d0f46b)
 
 
 ## About the Script
