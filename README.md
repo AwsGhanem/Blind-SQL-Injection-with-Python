@@ -11,7 +11,8 @@ An Automated way for **`testing the SQL query`** to a specific username, then **
 - Changing the TrackingId
 - Changing the SessionId
 - Changing the csrf value
-
+- Target should be the Login Page
+- To get the CSRF value try to login Once
 
 
 # I performed the script on this Lab from PortSwigger
