@@ -12,7 +12,7 @@ An Automated way for **`testing the SQL query`** to a specific username, then **
 - Changing the SessionId
 - Changing the csrf value
 - Target should be the Login Page
-- To get the CSRF value try to login Once
+- To get the CSRF value try to login Once with any credentials
 
 
 # I performed the script on this Lab from PortSwigger
