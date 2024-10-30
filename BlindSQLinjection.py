@@ -2,7 +2,7 @@ import requests
 
 total_queries = 0
 charset = "0123456789abcdefghijklmnopqrstuvwxyz"
-target = "Change-It"
+target = "https://Lab-ID/login"
 needle = "Welcome back!"
 
 # Function to perform injected query into a web application and return cookies
